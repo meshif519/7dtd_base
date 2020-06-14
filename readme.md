@@ -2,7 +2,8 @@ This is a little modlet I made for 7 Days to Die in order to make life in the wa
 
 Mods I made to the base game files:
 
-##V0.2.1:
+##V0.2.1:##
+
 #####readme.md#####
 -Properly formatted readme.md file for Github
 
