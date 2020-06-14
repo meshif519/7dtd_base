@@ -27,6 +27,7 @@ Mods I made to the base game files:
 
 ##### loot.xml
 -Increased probability of finding eggs in bird nests to 0.4
+
 -Changed bicycle storage from 9x1 slots to 8x2
 
 ##### qualityinfo.xml
